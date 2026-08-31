@@ -77,3 +77,9 @@ function $initHighlight(block, cls) {
   );
 }
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Marisol| Campos   | 39201885  |
+|Izan    | Chaile   | 1122345   |

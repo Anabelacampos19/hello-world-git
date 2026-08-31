@@ -83,3 +83,22 @@ function $initHighlight(block, cls) {
 |--------|----------|-----------|
 | Marisol| Campos   | 39201885  |
 |Izan    | Chaile   | 1122345   |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo: 
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior: 
+> Esto es otra cita.
+
+# Lineas Divisoras
+Esto es un texto que sera dividido por guiones medios.
+
+---
+Esto es otro txto dividido por asteriscos.
+
+***
+
+Esto es otro texto dividido por guines bajos.
+
+___
